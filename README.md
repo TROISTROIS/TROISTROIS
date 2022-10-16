@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, my name is Francisca Cheptoo Ngeno</h1>
 <h3 align="center">I am an Artificial Intelligence enthusiast currently in Machine Learning.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=troistrois" alt="troistrois" /></a> </p>
-
 - 🔭 I’m currently working on **Predicting RTC severity in UK Roads using Machine Learning.**
 
 - 🌱 I’m currently learning **Machine Learning, Python.**
@@ -26,5 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=troistrois&show_icons=true&locale=en" alt="troistrois" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=troistrois&" alt="troistrois" /></p>
-
-
