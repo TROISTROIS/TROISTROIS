@@ -9,7 +9,7 @@
 
 - 💬 I like to talk about **Machine Learning, Artificial Intelligence, Deep Learning.**
 
-- 📫 Reach me on **franciscacheptoongeno@gmail.com**
+- 📫 Reach me on **franciscangeno1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
