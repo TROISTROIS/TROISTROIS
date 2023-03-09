@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, my name is Francisca Cheptoo Ngeno</h1>
-<h3 align="center">I am an Artificial Intelligence enthusiast currently in Machine Learning.</h3>
+<h3 align="center">I am a Data Engineer.</h3>
 
-- 🔭 I’m currently working on **Predicting RTC severity in UK Roads using Machine Learning.**
+- 🔭 I’m currently working on **Analyzing data for Predicting RTC severity in UK Roads using Machine Learning.**
 
 - 🌱 I’m currently learning **Machine Learning, Python.**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects across the world.**
 
-- 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning.**
+- 💬 Ask me about **Data Engineering, Machine Learning, Artificial Intelligence, Deep Learning.**
 
 - 📫 How to reach me **franciscangeno1@gmail.com**
 
