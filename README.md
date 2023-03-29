@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Francisca Cheptoo Ngeno</h1>
 <h3 align="center">I am a Data Engineer.</h3>
 
-- 🔭 I’m currently working on **Analyzing data for Predicting RTC severity in UK Roads using Machine Learning.**
+- 🔭 I’m currently working on **Analyzing data for Predicting RTC severity in UK Roads for Machine Learning.**
 
 - 🌱 I’m currently learning **Machine Learning, Python.**
 
