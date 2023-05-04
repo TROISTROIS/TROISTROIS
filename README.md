@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Analyzing data for Predicting RTC severity in UK Roads for Machine Learning.**
 
-- 🌱 I’m currently learning **Machine Learning, Python.**
+- 🌱 I’m currently learning **Machine Learning, Python and SQL.**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects across the world.**
 
