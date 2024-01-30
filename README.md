@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, my name is Francisca Cheptoo Ngeno</h1>
 <h3 align="center">I am a Data Engineer.</h3>
 
-- 🔭 I’m currently working on **Building a data pipeline with airflow to get the most recent played songs from Spotify.**
+- 🔭 I’m currently working on **Real Time data processing with confluent kafka, postgreSQL and Avro .**
 
-- 🌱 I’m currently learning **Machine Learning, Python and SQL.**
+- 🌱 I’m currently learning **Data Engineering.**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects across the world.**
+- 👯 I’m looking to collaborate on **Data engineering projects across the world.**
 
-- 💬 Ask me about **Data Engineering, Machine Learning, Artificial Intelligence, Deep Learning.**
+- 💬 Ask me about **Data Engineering, Big Data, anything data**
 
 - 📫 How to reach me **franciscangeno1@gmail.com**
 
