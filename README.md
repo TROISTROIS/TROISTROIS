@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋, my name is Francisca Cheptoo Ngeno</h1>
 <h3 align="center">I am a Data Engineer.</h3>
 
-- 🔭 I’m currently working on **Integrating MongoDB with Confluent Kafka using Python .**
+- 🔭 I’m currently working on **Real Time Data Pipeline for
+processing e-commerce data using Confluent Kafka and Apache
+Cassandra .**
 
 - 🌱 I’m currently learning **Data Engineering.**
 
