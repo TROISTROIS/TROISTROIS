@@ -1,15 +1,13 @@
 <h1 align="center">Hello 👋, my name is Francisca Cheptoo Ngeno</h1>
 <h3 align="center">I am a Data Engineer.</h3>
 
-- 🔭 I’m currently working on **Real Time Data Pipeline for
-processing e-commerce data using Confluent Kafka and Apache
-Cassandra .**
+- 🔭 I’m currently working on **AWS Lambda Layer For Matrix Transposition.**
 
-- 🌱 I’m currently learning **Data Engineering.**
+- 🌱 I’m currently learning **Data Engineering on AWS**
 
 - 👯 I’m looking to collaborate on **Data engineering projects across the world.**
 
-- 💬 Ask me about **Data Engineering, Big Data, anything data**
+- 💬 Ask me about **Data Engineering, Big Data, AWS, anything data**
 
 - 📫 How to reach me **franciscangeno1@gmail.com**
 
