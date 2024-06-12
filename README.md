@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Francisca Cheptoo Ngeno</h1>
 <h3 align="center">I am a Data Engineer.</h3>
 
-- 🔭 I’m currently working on **E-Commerce Data Pipeline in AWS**
+- 🔭 I’m currently working on **Data Processing Pipeline For Food Analytics on AWS**
 
 - 🌱 I’m currently learning **Data Engineering on AWS**
 
