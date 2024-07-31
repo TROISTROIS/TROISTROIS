@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Francisca Cheptoo Ngeno</h1>
 <h3 align="center">I am a Data Engineer.</h3>
 
-- 🔭 I’m currently working on **DynamoDB real time pipeline in AWS to manage simulated e-commerce inventory data**
+- 🔭 I’m currently working on **EventDriven Sales Data Processing With Step Functions**
 
 - 🌱 I’m currently learning **Data Engineering on AWS**
 
