@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, my name is Francisca Cheptoo Ngeno</h1>
 <h3 align="center">I am a Data Engineer.</h3>
 
-- 🔭 I’m currently working on **EventDriven Sales Data Processing With Step Functions**
+- 🔭 I’m currently working on **Converting dataset into SCD2**
 
-- 🌱 I’m currently learning **Data Engineering on AWS**
+- 🌱 I’m currently learning **Data Modelling**
 
 - 👯 I’m looking to collaborate on **Data engineering projects across the world.**
 
