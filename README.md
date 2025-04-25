@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Francisca</h1>
 <h3 align="center">I am a Data Engineer.</h3>
 
-- 🔭 I’m currently working on **Building a grapgh data model out of the NBA dataset**
+- 🔭 I’m currently working on **Building a graph data model out of the NBA dataset**
 
 - 🌱 I’m currently learning **Data Modeling**
 
