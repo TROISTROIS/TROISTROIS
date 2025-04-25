@@ -1,9 +1,9 @@
-<h1 align="center">Hello 👋, my name is Francisca Cheptoo Ngeno</h1>
+<h1 align="center">Hello 👋, my name is Francisca</h1>
 <h3 align="center">I am a Data Engineer.</h3>
 
-- 🔭 I’m currently working on **Converting dataset into SCD2**
+- 🔭 I’m currently working on **Building a grapgh data model out of the NBA dataset**
 
-- 🌱 I’m currently learning **Data Modelling**
+- 🌱 I’m currently learning **Data Modeling**
 
 - 👯 I’m looking to collaborate on **Data engineering projects across the world.**
 
