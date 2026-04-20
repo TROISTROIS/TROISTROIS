@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, my name is Francisca</h1>
-<h3 align="center">I am a Data Engineer.</h3>
+<h3 align="center">I am a Platform Engineer.</h3>
 
-- 🔭 I’m currently working on **Building a graph data model out of the NBA dataset**
+- 🔭 I’m currently working on **Fuel Price Tracker with Amazon Textract, DynamoDB, SNS, SQS, S3, Lambda, IAM**
 
-- 🌱 I’m currently learning **Data Modeling**
+- 🌱 I’m currently learning **Terraform**
 
-- 👯 I’m looking to collaborate on **Data engineering projects across the world.**
+- 👯 I’m looking to collaborate on **AWS and Cloud-Native Applications**
 
-- 💬 Ask me about **Data Engineering, Big Data, AWS, anything data**
+- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform and CloudFormation**
 
 - 📫 How to reach me **franciscangeno1@gmail.com**
 
